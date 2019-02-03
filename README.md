@@ -18,6 +18,8 @@ WPFTemplate is a simple project template for new C# WPF projects that allows you
 8. Open the project's file location on disk and rename `WPFTemplate`
 9. Open the `.sln` file in your favorite text editor and replace `WPFTemplate` to the folder name from the previous step
 
+You may also want to delete the `.git` folder (if you cloned the project) and run `git init` and `git add .` to avoid any trouble with the fact that you cloned an existing project.
+
 Is it annoying to have to do all that? Yup. Does it take too long? Nope. Perhaps someday we'll be able to automate the process or provide an actual VS-compatible project template :)
 
 ## Can I help contribute?
