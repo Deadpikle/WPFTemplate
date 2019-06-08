@@ -8,7 +8,7 @@ WPFTemplate is a simple project template for new C# WPF projects that allows you
 
 ## Using WPF Template
 
-1. Clone the project
+1. Clone the project or [use this project as a template](https://github.com/Deadpikle/WPFTemplate/generate)
 2. Go into the Project properties for `WPFTemplate` and change the `Assembly name` and `Default namespace` (Right click the `WPFTemplate` project in Solution Explorer and click Properties)
 3. Rename the project itself (Right click the `WPFTemplate` project in Solution Explorer and choose Rename)
 4. Rename the solution (Right click the `WPFTemplate` solution in Solution Explorer and choose Rename)
