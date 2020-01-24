@@ -17,7 +17,8 @@ WPFTemplate is a simple project template for new C# WPF projects that allows you
 7. **Close** the solution in Visual Studio
 8. Open the project's file location on disk and rename `WPFTemplate`
 9. Open the `.sln` file in your favorite text editor and replace `WPFTemplate` to the folder name from the previous step
-10. Change license and other materials as necessary!
+10. Go through each of the views.xaml files and App.xaml and replace the `WPFTemplate` name with your new namespace
+11. Change license and other materials as necessary!
 
 You may also want to delete the `.git` folder (if you cloned the project) and run `git init` and `git add .` to avoid any trouble with the fact that you cloned an existing project.
 
